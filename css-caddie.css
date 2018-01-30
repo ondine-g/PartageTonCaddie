@@ -1,0 +1,74 @@
+#caddie-banner{
+	background-image: url("caddie3.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+}
+
+/*img{
+	width: 30px;
+	height: 30px;
+	margin-left: 600px
+}*/
+
+#bouton_haut {
+position: fixed;
+bottom: 30px;
+right: 30px;
+cursor: pointer;
+display:none;
+}
+
+}
+h5{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+#validation{
+	width: 120px;
+	height: 80px;
+	margin: auto;
+}
+
+.card-group{
+	text-align: center;
+  color: #DE4C40;
+margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+#Barre{ 
+  margin: 5px;
+}
+
+#EmplacementDeMaCarte{
+  margin-bottom: 5px;
+}
+
+
+}
+
+.fixNavigation{
+ z-index: 9999;
+ position: fixed;
+ top: 0;
+ /* Mise en forme */
+ width: 100%; /* <-- Largeur de votre site */
+
+ }
+
+ #carouselExampleIndicators {
+ 	width: 70vw;
+ }
+
+/* #carouselExampleIndicators img {
+ 	height: 100%;
+ }*/
+
+.container-fluid{
+	background-color: #E6E6E4
+}
